@@ -1,0 +1,5 @@
+External contribution demonstration
+
+This file began in a contributor-facing GitHub pull request. Its exact
+accepted commit is carried through an internal shadow merge and the normal
+downstream sync pull request.
