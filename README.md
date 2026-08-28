@@ -1,2 +1,3 @@
-# oss-sync-external-test
-Disposable external repository for manual OSS sync testing
+# OSS Sync Manual Test
+
+This directory is the authoritative internal OSS tree used by the bridge test.
